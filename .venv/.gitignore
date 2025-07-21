@@ -1,1 +1,18 @@
+# Virtual env
+.venv/
+env/
+
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Secrets
 .env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
